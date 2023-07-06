@@ -1,0 +1,22 @@
+#time
+{
+    float:right;
+}
+#score
+{
+    float:left;
+}
+body{
+    color: red;
+    background-color: aquamarine;
+}
+h1{
+    font-family: Impact;
+}
+p{
+    font-size: 35px;
+    font-family: 'Gill Sans';
+}
+#show_sketch{
+    float:right;
+}
